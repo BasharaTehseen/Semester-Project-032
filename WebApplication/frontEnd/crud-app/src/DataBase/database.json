@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Bashara",
+      "username": "basheeran",
+      "email": "bashara@gmail.com",
+      "phone": "032565899",
+      "id": 1
+    },
+    {
+      "name": "Muhammad",
+      "username": "Muhammad",
+      "email": "Muhammad@gmail.com",
+      "phone": "7458965874",
+      "id": 3
+    },
+    {
+      "name": "ALI HASSAN LIAQAT",
+      "username": "alihasan",
+      "email": "alihasan@gmail.com",
+      "phone": "033225566",
+      "id": 4
+    },
+    {
+      "name": "Ghous",
+      "username": "ghous",
+      "email": "g@gmail.com",
+      "phone": "306484561",
+      "id": 5
+    }
+  ]
+}
